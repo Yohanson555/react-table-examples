@@ -1,0 +1,1 @@
+export const SELECT_EXAMPLE = "select_example";
